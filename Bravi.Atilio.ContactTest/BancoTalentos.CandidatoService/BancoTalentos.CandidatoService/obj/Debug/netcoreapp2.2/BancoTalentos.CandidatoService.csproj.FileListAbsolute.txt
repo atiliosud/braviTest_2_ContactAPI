@@ -1,0 +1,16 @@
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\obj\Debug\netcoreapp2.2\BancoTalentos.CandidatoService.csprojAssemblyReference.cache
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\obj\Debug\netcoreapp2.2\BancoTalentos.CandidatoService.RazorAssemblyInfo.cache
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\obj\Debug\netcoreapp2.2\BancoTalentos.CandidatoService.RazorAssemblyInfo.cs
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\obj\Debug\netcoreapp2.2\BancoTalentos.CandidatoService.AssemblyInfoInputs.cache
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\obj\Debug\netcoreapp2.2\BancoTalentos.CandidatoService.AssemblyInfo.cs
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\bin\Debug\netcoreapp2.2\appsettings.json
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\bin\Debug\netcoreapp2.2\BancoTalentos.CandidatoService.deps.json
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\bin\Debug\netcoreapp2.2\BancoTalentos.CandidatoService.runtimeconfig.json
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\bin\Debug\netcoreapp2.2\BancoTalentos.CandidatoService.runtimeconfig.dev.json
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\bin\Debug\netcoreapp2.2\BancoTalentos.CandidatoService.dll
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\bin\Debug\netcoreapp2.2\BancoTalentos.CandidatoService.pdb
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\obj\Debug\netcoreapp2.2\BancoTalentos.CandidatoService.RazorTargetAssemblyInfo.cache
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\obj\Debug\netcoreapp2.2\BancoTalentos.CandidatoService.dll
+F:\BRAVI\Bravi.Atilio.ContactTest\BancoTalentos.CandidatoService\BancoTalentos.CandidatoService\obj\Debug\netcoreapp2.2\BancoTalentos.CandidatoService.pdb
